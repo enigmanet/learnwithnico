@@ -1,3 +1,5 @@
+<img width="486" height="239" alt="image" src="https://github.com/user-attachments/assets/29c6d87d-a2d8-4b74-9ce4-b573f39bf1e2" />
+
 # Learn with Nico — Audio Player
 
 Live demo: https://learnwithnico.com/
